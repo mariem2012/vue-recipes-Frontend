@@ -20,7 +20,8 @@
   },
   "modal": {
     "categoryDetails": "Category Details",
-    "name": "Name"
+    "name": "Name",
+    "btClose": "Close"
   },
   "ingredients": "Ingredients",
   "type": "Type",
@@ -40,6 +41,7 @@
   "recipe_details": "Recipe Details",
   "category": "category",
   "categorySelect": "Select a category",
+  "typeSelect": "Select a type",
 
   "close": "Close",
 

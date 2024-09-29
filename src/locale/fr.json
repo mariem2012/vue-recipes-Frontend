@@ -17,7 +17,8 @@
   },
   "modal": {
     "categoryDetails": "Détails de la Catégorie",
-    "name": "Nom"
+    "name": "Nom",
+    "btClose": "Fermer"
   },
 
   "buttons": {
@@ -48,6 +49,7 @@
     "cancel": "Annuler",
     "size_is": "La taille est {size}",
     "categorySelect": "Sélectionnez une catégorie",
+    "typeSelect": "Sélectionnez un type",
       "add_recipe": "Ajouter une recette",
       "id": "ID",
      
