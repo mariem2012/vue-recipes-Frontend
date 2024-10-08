@@ -28,7 +28,7 @@ Suivez ces étapes pour configurer le projet sur votre machine locale :
 2. **Accédez au dossier du projet :**
 
     ```bash
-    cd vue-gestion-tache
+    cd vue-gestion-recette
     ```
 
 3. **Installez les dépendances :**
@@ -71,5 +71,4 @@ npm run dev
 
 ## Authors
  - **GitHub** : [Ousmane Ibrahima Ly](https://github.com/Ousmanly)
- - **GitHub** : [Sem Thillo](https://github.com/semthillo)
 

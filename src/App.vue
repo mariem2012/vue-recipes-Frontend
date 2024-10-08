@@ -33,7 +33,7 @@ const changeLanguage = (locale) => {
                 type="text"
                 class="form-control me-2"
                 v-model="store.searchQuery"
-                placeholder="Rechercher recette..."
+                :placeholder="$t('navbar.recherche')"
               />
             </form>
               <li class="nav-item">

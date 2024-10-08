@@ -2,7 +2,8 @@
   
   "navbar": {
     "recipes": "Recette",
-    "axiosRecipes": "Categorie"
+    "axiosRecipes": "Categorie",
+    "recherche":"Rechercher recette..."
   },
   "buttons": {
     "english": "Anglais",
