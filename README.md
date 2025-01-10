@@ -22,13 +22,14 @@ Suivez ces étapes pour configurer le projet sur votre machine locale :
 1. **Clonez le repository :**
 
     ```bash
-    https://github.com/Ousmanly/vue-gestion-recette.git
+    https://github.com/mariem2012/vue-recipes-Frontend.git
     ```
 
 2. **Accédez au dossier du projet :**
 
     ```bash
-    cd vue-gestion-recette
+    cd vue-recipes-Frontend
+
     ```
 
 3. **Installez les dépendances :**
@@ -70,5 +71,5 @@ npm run dev
  - updateCategories :  cette fonction permet de modifier une categorie.
 
 ## Authors
- - **GitHub** : [Ousmane Ibrahima Ly](https://github.com/Ousmanly)
+ - **GitHub** : [Mariem Dianifaba](https://github.com/mariem2012)
 
